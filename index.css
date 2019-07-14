@@ -28,4 +28,13 @@ img{
 #nav{
 	height: 30px;
 	background: #eee;
+	line-height: 30px;
+}
+#nav .rightNav{
+	float: right;
+}
+
+#nav .rightNav>li{
+	float:left;
+	padding: 0 5px;
 }
